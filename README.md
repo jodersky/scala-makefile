@@ -1,4 +1,4 @@
-# A makefile for Scala Applications
+# A Makefile for Scala Applications
 
 A makefile that demonstrates how building Scala applications can be
 very simple.
